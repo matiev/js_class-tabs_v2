@@ -1,2 +1,2 @@
 # js_class-tabs_v2
-New versi
+New versio
