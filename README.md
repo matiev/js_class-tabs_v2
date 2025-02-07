@@ -6,7 +6,3 @@ New version avtomatic tabs.
 
 
 
-
-
-
-
