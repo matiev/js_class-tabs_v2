@@ -70,5 +70,3 @@ for (let i=0; i<tabsContents.length; i++) {
 }
 
 
-
-
