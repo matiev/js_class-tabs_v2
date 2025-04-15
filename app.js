@@ -68,3 +68,7 @@ let tabsContents = document.querySelectorAll('.tabs__content');
 for (let i=0; i<tabsContents.length; i++) {  
   new Tabs(tabsContents[i], i);
 }
+
+
+
+
