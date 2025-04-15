@@ -5,5 +5,3 @@ New version avtomatic tabs.
 
 
 
-
-
