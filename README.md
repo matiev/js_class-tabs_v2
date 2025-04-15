@@ -7,5 +7,3 @@ New version avtomatic tabs.
 
 
 
-
-
